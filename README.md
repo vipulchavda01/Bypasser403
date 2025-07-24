@@ -20,20 +20,3 @@ Clone this repository:
 ```bash
 git clone https://github.com/<your-username>/Bypasser403.git
 cd Bypasser403
-
- Usage
-
-Run the tool with:
-python3 bypasser403.py <URL>
-
-Example:
-
-python3 bypasser403.py https://target.com admin
-
-The tool will:
-
-    Test the target with multiple payloads.
-
-    Display the status codes for each attempt.
-
-    Highlight possible bypasses.

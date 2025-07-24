@@ -19,5 +19,8 @@ It uses a **large set of payloads, header manipulations, and tricks** to test fo
 Clone this repository:
 ```bash
 git clone https://github.com/vipulchavda01/Bypasser403.git
-cd Bypasser403
-python3 Bypasser403.py 
+cd Bypasser403 
+python3 Bypasser403.py <URL> <PATH>
+##Example Usage##
+python3 Bypasser403.py https://target.com admin
+

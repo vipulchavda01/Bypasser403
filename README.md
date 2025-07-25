@@ -4,6 +4,7 @@ Bypasser403 is a fast and lightweight Python tool designed for **security resear
 It uses a **large set of payloads, header manipulations, and tricks** to test for possible misconfigurations and access bypass vulnerabilities.
 
 ---
+<img width="909" height="627" alt="mytool" src="https://github.com/user-attachments/assets/0802c526-314d-446d-9361-e203e7a0f640" />
 
 ## Features
 - 🚀 **Multi-threaded scanning** for speed.
